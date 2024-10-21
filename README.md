@@ -1,3 +1,5 @@
+# Hi there, I'm Nihad! 👋
+
 # 💫 About Me:
 🔭 I’m currently working on innovative projects.<br><br>👯 I’m looking to collaborate on exciting development ideas.<br><br>🤝 I’m looking for help with improving my skills in React and backend technologies.<br><br>🌱 I’m currently learning more about PHP.<br><br>💬 Ask me about web development, Node.js, or any tech-related topics!<br><br>⚡ Fun fact: I enjoy playing video games and exploring new tech trends!
 
