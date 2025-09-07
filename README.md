@@ -1,8 +1,7 @@
 # Hi there, I'm Nihad! 👋
 
 # 💫 About Me:
-🔭 I’m currently working on innovative projects.<br><br>👯 I’m looking to collaborate on exciting development ideas.<br><br>🤝 I’m looking for help with improving my skills in React and backend technologies.<br><br>🌱 I’m currently learning more about PHP.<br><br>💬 Ask me about web development, Node.js, or any tech-related topics!<br><br>⚡ Fun fact: I enjoy playing video games and exploring new tech trends!
-
+🚀 DevOps Engineer passionate about cloud technologies, automation, and efficient infrastructure.<br><br>🌱 Currently diving deeper into AWS, Docker, Kubernetes, Terraform, and CI/CD pipelines.<br><br>🔭 I recently completed a live internship at IPSR Solutions Ltd (Nov 2024 - Apr 2025), where I gained hands-on experience with AWS, Jenkins, Ansible, Docker, Nginx, Apache, monitoring tools, and automation.<br><br>👯 I’m open to collaborating on DevOps, cloud, and web development projects.<br><br>📌 I'm continuously improving my skills in cloud infrastructure, server automation, and deployment strategies.<br><br>⚡ Fun fact: When I’m not working on tech, I’m probably exploring new gadgets, tinkering with servers, or playing video games.
 
 ## 🌐 Socials:
  [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nihad-abdul-nazar-341842206/) 
